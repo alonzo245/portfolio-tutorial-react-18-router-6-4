@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-tutorial-react-18-router-6-4/static/css/main.d2cbfdac.css",
+    "main.js": "/portfolio-tutorial-react-18-router-6-4/static/js/main.b40a3379.js",
+    "static/js/787.48d3a488.chunk.js": "/portfolio-tutorial-react-18-router-6-4/static/js/787.48d3a488.chunk.js",
+    "static/media/avatar.jpeg": "/portfolio-tutorial-react-18-router-6-4/static/media/avatar.c95506025b77f55d67b1.jpeg",
+    "index.html": "/portfolio-tutorial-react-18-router-6-4/index.html",
+    "main.d2cbfdac.css.map": "/portfolio-tutorial-react-18-router-6-4/static/css/main.d2cbfdac.css.map",
+    "main.b40a3379.js.map": "/portfolio-tutorial-react-18-router-6-4/static/js/main.b40a3379.js.map",
+    "787.48d3a488.chunk.js.map": "/portfolio-tutorial-react-18-router-6-4/static/js/787.48d3a488.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2cbfdac.css",
+    "static/js/main.b40a3379.js"
+  ]
+}
