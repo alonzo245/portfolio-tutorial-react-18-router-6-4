@@ -22,7 +22,7 @@
 
 ## Steps to start
 
-Option 1 - clone repository
+Option 1 - clone repository and inspect it.
 
 ---
 
