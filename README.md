@@ -1,6 +1,7 @@
 # Developer Portfolio Website Tutorial by Alon Alush
 
 ## What we'll learn?
+
 - React 18
 - React Router 6.4
 - TypeScript in React
@@ -19,14 +20,38 @@
 - Developing in local & production environment
 - SEO Optimization
 
+## Steps to start
 
+Option 1 - clone repository
+
+---
 
 ```bash
-  npm run test
+  git clone https://github.com/alonzo245/portfolio-tutorial-react-18-router-6-4.git
 ```
 
-#1
-npm i react-router-dom react-infinite-scroller react-anchor-link-smooth-scroll gh-pages antd react-icons @emotion/styled react-tooltip react-json-to-table
+Option 2 - clone repository
 
-#2
+---
+
+> Init React App
+
+```bash
+npx create-react-app deveeloper-portfolio-website-react-18-router-6_4 --template typescript
+```
+
+Option 2 - clone repository
+
+> Install dependencies
+
+```bash
+npm i react-router-dom react-infinite-scroller react-anchor-link-smooth-scroll gh-pages antd react-icons @emotion/styled react-tooltip react-json-to-table
+```
+
+> Install dev dependencies
+
+```bash
 npm i --save-dev @types/react-anchor-link-smooth-scroll @types/react-infinite-scroller prettier
+```
+
+And follow along the repo source code.
