@@ -1,0 +1,61 @@
+{
+  "name": "portfolio-tutorial-react-18-router-6-4",
+  "homepage": "https://alonzo245.github.io/portfolio-tutorial-react-18-router-6-4",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/styled": "^11.10.4",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.11.68",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "antd": "^4.23.6",
+    "axios": "^1.1.3",
+    "gh-pages": "^4.0.0",
+    "react": "^18.2.0",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0",
+    "react-infinite-scroller": "^1.2.6",
+    "react-json-to-table": "^0.1.7",
+    "react-router-dom": "^6.4.2",
+    "react-scripts": "5.0.1",
+    "react-tooltip": "^4.4.2",
+    "typescript": "^4.8.4",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-anchor-link-smooth-scroll": "^1.0.2",
+    "@types/react-infinite-scroller": "^1.2.3",
+    "prettier": "^2.7.1"
+  }
+}
